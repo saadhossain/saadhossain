@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Saddam Hossain (Saad)!
 
-## 💻 MERN Stack Developer | 2+ Years of Experience | Passionate about building impactful applications!
-
 ### 🌐 About Me
-I’m a **MERN stack developer** with over two years of experience building efficient, scalable, and user-friendly web applications. My focus is on creating smooth, interactive applications that prioritize user experience. I’m dedicated to delivering high-quality code and continuously expanding my technical skills.
+I am a passionate developer with 14 months of industry experience in web development as a Frontend Developer. Skilled in JavaScript, TypeScript, React, Redux, Shadcn, Material UI, Node.js, MongoDB, Mongoose, and PostgreSQL, I consistently bring dedication and a strong commitment to delivering my best work and applying my expertise effectively.
 
-- 🔭 Currently working on: [Project Name]
+- 🔭 Currently working on: [ChatLense] - Generative AI Chatting App
 - 🌱 Currently exploring: Advanced **TypeScript** and **Serverless Architecture**
-- 🧑‍💻 Open to collaborating on MERN projects and exciting learning opportunities
+- 🧑‍💻 Open to collaborating on MERN and NextJs projects and exciting learning opportunities
 
 ---
 
@@ -63,9 +61,15 @@ I’m a **MERN stack developer** with over two years of experience building effi
 ---
 
 ### 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadhossain&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhossain&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhossain&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadhossain&theme=radical" alt="Profile Summary Card" height="150" />
+</p>
 
 ---
 
@@ -83,32 +87,32 @@ _February 2023 to March 2024 (14 Months)_
 
 ### 📚 Featured Projects
 
-#### 🥗 [FavFood](https://github.com/yourusername/favfood)
+#### 🥗 [FavFood](https://github.com/saadhossain/favfood)
 An e-commerce platform where users can order their favorite meals, search foods, and add items to a wishlist.
 
 - **Tech Stack**: Next.js, Redux, Tailwind CSS, MongoDB
 - **Features**: Authentication, Wishlist, Cart, Feedback
-- **Live Demo**: [Demo Link](https://yourdemo.com)
+- **Live Demo**: [Live Site](http://get-favfood.vercel.app/)
 
-#### 💼 [Dealogic](https://github.com/yourusername/dealogic)
+#### 💼 [Dealogic](https://github.com/saadhossain/dealogic)
 A reselling marketplace for computer components built with the MERN stack.
 
 - **Tech Stack**: MongoDB, Express.js, React, Node.js
 - **Features**: User Registration, Product Listings, Search, Payment Integration
-- **Live Demo**: [Demo Link](https://yourdemo.com)
+- **Live Demo**: [Live Site](https://dealogic-now.web.app/)
 
 ---
 
 ### 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
-- Email: yourname@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/devsaad-js/)
+- Portfolio: [Your Portfolio](https://dev-saad.web.app/)
+- Email: devsaad.js@gmail.com
 
 ---
 
 ### 👨‍💻 What I’m Focusing On
-- **Improving**: Writing clean, maintainable code and efficient data handling.
-- **Learning**: New features in TypeScript and exploring serverless solutions.
+- **Improving**: Writing clean, maintainable code and efficient data handling and time management.
+- **Learning**: New features in TypeScript, NextJs and exploring AI solutions.
 - **Building**: User-centric applications with a focus on scalability and security.
 
 ---

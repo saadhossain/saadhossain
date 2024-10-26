@@ -88,7 +88,7 @@ _February 2023 to March 2024 (14 Months)_
 ### 📚 Featured Projects
 
 #### 🥗 [FavFood](https://github.com/saadhossain/favfood)
-An e-commerce platform where users can order their favorite meals, search foods, and add items to a wishlist.
+An e-commerce platform where users can order their favorite meals, search for foods, and add items to a wishlist.
 
 - **Tech Stack**: Next.js, Redux, Tailwind CSS, MongoDB
 - **Features**: Authentication, Wishlist, Cart, Feedback
@@ -104,8 +104,8 @@ A reselling marketplace for computer components built with the MERN stack.
 ---
 
 ### 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/devsaad-js/)
-- Portfolio: [Your Portfolio](https://dev-saad.web.app/)
+- [LinkedIn](https://www.linkedin.com/in/devsaad-js/)
+- [Portfolio](https://dev-saad.web.app/)
 - Email: devsaad.js@gmail.com
 
 ---

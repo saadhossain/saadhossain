@@ -81,6 +81,24 @@ _February 2023 to March 2024 (14 Months)_
 
 ---
 
+### 📚 Featured Projects
+
+#### 🥗 [FavFood](https://github.com/yourusername/favfood)
+An e-commerce platform where users can order their favorite meals, search foods, and add items to a wishlist.
+
+- **Tech Stack**: Next.js, Redux, Tailwind CSS, MongoDB
+- **Features**: Authentication, Wishlist, Cart, Feedback
+- **Live Demo**: [Demo Link](https://yourdemo.com)
+
+#### 💼 [Dealogic](https://github.com/yourusername/dealogic)
+A reselling marketplace for computer components built with the MERN stack.
+
+- **Tech Stack**: MongoDB, Express.js, React, Node.js
+- **Features**: User Registration, Product Listings, Search, Payment Integration
+- **Live Demo**: [Demo Link](https://yourdemo.com)
+
+---
+
 ### 🔗 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - Portfolio: [Your Portfolio](https://yourportfolio.com)

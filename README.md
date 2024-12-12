@@ -3,7 +3,7 @@
 ### 🌐 About Me
 I am a passionate developer with 14 months of industry experience in web development as a Frontend Developer. Skilled in JavaScript, TypeScript, React, Redux, Shadcn, Material UI, Node.js, MongoDB, Mongoose, and PostgreSQL, I consistently bring dedication and a strong commitment to delivering my best work and applying my expertise effectively.
 
-- 🔭 Currently working on: [ChatLense] - Generative AI Chatting App
+- 🔭 Currently working on: [NayaBagladesh] - NextJs & NodeJs Fullstack Production Ready News Website - Bengali News Website.
 - 🌱 Currently exploring: Advanced **TypeScript** and **Serverless Architecture**
 - 🧑‍💻 Open to collaborating on MERN and NextJs projects and exciting learning opportunities
 
@@ -23,6 +23,11 @@ I am a passionate developer with 14 months of industry experience in web develop
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn-FF6C37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactQuery-61DAFB?style=for-the-badge&logo=tanstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tanstack_Table-764ABC?style=for-the-badge&logo=tanstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Quill-38B2AC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 #### **Comfortable**
@@ -34,7 +39,6 @@ I am a passionate developer with 14 months of industry experience in web develop
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
 #### **Tools**
@@ -79,9 +83,7 @@ I am a passionate developer with 14 months of industry experience in web develop
 **Laail Network Private LTD** (Pune, India)  
 _May 2023 to July 2024 (14 Months)_
 
-- **Responsibilities**: Developed cutting-edge, user-centric, innovative web applications for playing, cloning, and editing games.
-- Leveraged technologies like **React, Tailwind CSS, Redux, TypeScript, and Firebase** to deliver robust solutions.
-- Developed a **Telegram Bot** that allows users to play, clone, and invite others to join the gaming experience.
+- **Responsibilities**: Developed innovative and high-performance web applications, including CRM, ERP, project management systems, and gaming platforms. Leveraged modern technologies such as React, Tailwind CSS, and Redux to deliver robust and scalable solutions. Additionally, created a WhatsApp Bot integrated with CRM and a Telegram Bot to enhance the gaming experience, enabling seamless interactions and functionality.
 
 ---
 
@@ -93,6 +95,14 @@ An e-commerce platform where users can order their favorite meals, search for fo
 - **Tech Stack**: Next.js, Redux, Tailwind CSS, MongoDB
 - **Features**: Authentication, Wishlist, Cart, Feedback
 - **Live Demo**: [Live Site](http://get-favfood.vercel.app/)
+
+#### 📰 [NayaBangladesh](https://github.com/saadhossain/nayabangladesh)
+NextJs & NodeJs Fullstack Production Ready News Website - Bengali News Website.
+
+- **Tech Stack**: TailwindCSS, TypeScript, NextJs, ShadCn, React Quill, HTML Parser, React Query,  Tanstack Table, React Share, NodeJs, ExpressJs, MongoDB, Mongoose, NextAuth and Bcrypt.
+- **Features**: News Organized by Category, Details Page, Recent and Popular News, Social Share, Reader comments, Login & Registration, Dark Mode, Search and Save news.
+- The admin has full access and can add, edit, and delete news, users, categories, tags.
+- **Live Demo**: [Live Site](https://nayabangladesh.vercel.app/)
 
 #### 💼 [Dealogic](https://github.com/saadhossain/dealogic)
 A reselling marketplace for computer components built with the MERN stack.

@@ -83,7 +83,7 @@ I am a passionate developer with 14 months of industry experience in web develop
 **Laail Network Private LTD** (Pune, India)  
 _May 2023 to July 2024 (14 Months)_
 
-- **Responsibilities**: Developed innovative and high-performance web applications, including CRM, ERP, project management systems, and gaming platforms. Leveraged modern technologies such as React, Tailwind CSS, and Redux to deliver robust and scalable solutions. Additionally, created a WhatsApp Bot integrated with CRM and a Telegram Bot to enhance the gaming experience, enabling seamless interactions and functionality.
+- **Responsibilities**: Developed innovative and high-performance web applications, including CRM, project management systems, and gaming platforms. Leveraged modern technologies such as React, Tailwind CSS, and Redux to deliver robust and scalable solutions. Additionally, created a WhatsApp Bot integrated with CRM and a Telegram Bot to enhance the gaming experience, enabling seamless interactions and functionality.
 
 ---
 
